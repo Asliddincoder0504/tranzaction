@@ -1,0 +1,2 @@
+# tranzaction
+tranzaksiya
